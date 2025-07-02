@@ -1,0 +1,11 @@
+Name,Company,Email Address,Phone,Email_Validation_Status
+Alice Smith,ABC Corp,alice@abccorp.com,123-456-7890,No Nameservers
+Bob Johnson,XYZ Inc,bob@xyzinc.com,098-765-4321,Valid
+Charlie Brown,Fictional Co,charlie@invaliddomainxyz123.com,555-123-4567,Domain Not Found
+Diana Prince,Wonder Ent,diana.prince@example,444-555-6666,Invalid Syntax
+Eve Adams,Ghost Corp,eve@no-mx-record-domain.com,333-222-1111,Domain Not Found
+Frank White,Valid Tech,frank.white@gmail.com,111-222-3333,Valid
+Grace Lee,Service Co,grace@serviceco.org,222-333-4444,No MX Records
+Henry Green,Innovate Ltd,henry.green@innovateltd.net,777-888-9999,Domain Not Found
+Ivy King,Old Company,ivy@oldcompany.co.uk,999-000-1111,Domain Not Found
+Jack Black,Test Corp,jack@testcorp.io,123-987-6543,Domain Not Found
